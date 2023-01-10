@@ -1,0 +1,31 @@
+{
+    "country": [
+        {
+            "countryName": "KSA",
+            "currency": "SAR",
+            "price": {
+                "lite": "15",
+                "classic": "25",
+                "premium": "60"
+            }
+        },
+        {
+            "countryName": "Bahrain",
+            "currency": "BHD",
+            "price": {
+                "lite": "2",
+                "classic": "3",
+                "premium": "6"
+            }
+        },
+        {
+            "countryName": "Kuwait",
+            "currency": "KWD",
+            "price": {
+                "lite": "1.2",
+                "classic": "2.5",
+                "premium": "4.8"
+            }
+        }
+    ]
+}
